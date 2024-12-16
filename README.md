@@ -11,7 +11,7 @@
 6.UserInterface 負責與用戶互動，接收輸入並顯示結果。
 ```
 ### 循序圖
-![循序圖](./img/sequence_diagram.jpg)
+![循序圖](循序圖.jpg)
 
 ### 活動圖
-![活動圖](./img/activity_diagram.jpg)
+![活動圖](活動圖.jpg)
