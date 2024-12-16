@@ -1,6 +1,6 @@
 # HW5
 ### 類別圖
-![類別圖](class_diagram.drawio)
+![類別圖](類別圖.jpg)
 
 ### 循序圖
 ![循序圖](./img/sequence_diagram.jpg)
